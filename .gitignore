@@ -1,0 +1,10 @@
+# Groovy stuff
+out/
+
+# IDE Stuff
+.idea/
+*.iml
+
+#
+output/*
+!output/.gitkeep
